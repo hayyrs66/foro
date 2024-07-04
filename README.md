@@ -31,6 +31,6 @@ ForoHub es una aplicación de foros diseñada para permitir a los usuarios discu
    ```bash
    mvn clean install
    java -jar target/forohub-1.0.jar
-```
+
 4. **Uso**
    - Accede a la aplicación a través de `http://localhost:8080` en tu navegador web.
