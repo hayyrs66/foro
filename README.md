@@ -14,7 +14,7 @@ ForoHub es una aplicación de foros diseñada para permitir a los usuarios discu
 - Java
 - Spring Framework
 - Hibernate
-- PostgreSQL (o la base de datos que estés utilizando)
+- PostgreSQL
 
 ## Instalación y Uso
 
